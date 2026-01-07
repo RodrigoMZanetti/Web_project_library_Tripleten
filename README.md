@@ -1,5 +1,7 @@
 ## Biblioteca Triple Peaks
 
+![Project Screenshot](./images/Screenshot.png)
+
 ## Project Overview 📊
 
 Triple Peaks Library is a responsive-style landing page created as the third project in the TripleTen Web Development program. The goal was to practice building a clean multi-section layout using semantic HTML and CSS (Flexbox + positioning), following a provided design brief.
